@@ -1,9 +1,10 @@
+import {BrowserRouter} from "react-router-dom"
+import { About, Contact, Experience, Hero, Navbar, Works, Tech, Feedbacks } from "./components/index.js"
+
 function App() {
   
   return (
-    <div>
-      3d Developer Portfolio
-    </div>
+    <h2 className="bg-black">Priyansu</h2>
   )
 }
 
