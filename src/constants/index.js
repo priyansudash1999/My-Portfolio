@@ -13,8 +13,10 @@ import {
     mongodb,
     git,
     youtube,
+    portfolio,
     threejs,
     self_learning,
+    todo,
   } from "../assets";
   
   export const navLinks = [
@@ -213,7 +215,7 @@ import {
             color: "purple-text-gradient",
           },
         ],
-        image: todolist,
+        image: todo,
         source_code_link: "https://github.com/priyansudash1999",
       }
       

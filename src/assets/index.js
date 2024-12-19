@@ -1,7 +1,6 @@
 import logo from "./logo.svg";
 import backend from "./backend.png";
-import creator from "./creator.png";
-import mobile from "./mobile.png";
+import frontend from "./frontend.png"
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
@@ -20,22 +19,24 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
+import self_learning from "./self_learning.png"
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
+import youtube from "./youtube.png"
+import portfolio from "./portfolio.jpeg"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
+import todo from "./todo.jpg"
 import tripguide from "./tripguide.png";
 
 export {
   logo,
   backend,
-  creator,
-  mobile,
+  frontend,
   web,
+  self_learning,
   github,
   menu,
   close,
@@ -59,4 +60,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  youtube,
+  portfolio,
+  todo
 };
