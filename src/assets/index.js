@@ -31,6 +31,8 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import todo from "./todo.jpg"
 import tripguide from "./tripguide.png";
+import python from "./python.png"
+import django from "./django.png"
 
 export {
   logo,
@@ -48,6 +50,8 @@ export {
   git,
   html,
   javascript,
+  python,
+  django,
   mongodb,
   nodejs,
   reactjs,

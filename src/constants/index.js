@@ -18,6 +18,8 @@ import {
     threejs,
     self_learning,
     todo,
+    python,
+    django
   } from "../assets";
   
   export const navLinks = [
@@ -70,6 +72,14 @@ import {
     {
       name: "TypeScript",
       icon: typescript,
+    },
+    {
+      name: "Python",
+      icon: python
+    },
+    {
+      name: "Django",
+      icon: django
     },
     {
       name: "React JS",
