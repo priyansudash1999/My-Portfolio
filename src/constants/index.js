@@ -2,6 +2,7 @@ import {
     backend,
     frontend,
     web,
+    mobile,
     javascript,
     typescript,
     html,
@@ -47,6 +48,10 @@ import {
       title: "Frontend Developer",
       icon: frontend,
     },
+    {
+      title: "React-native Developer",
+      icon: mobile,
+    }
   ];
   
   const technologies = [
