@@ -28,7 +28,7 @@ const Ball = (props) => {
   )
 }
 
-const BallCanvas = ({ icon }) => {
+const BallCanvas = ({ icon, title }) => {
   return (
     <Canvas
       frameloop='demand'
@@ -37,7 +37,7 @@ const BallCanvas = ({ icon }) => {
     >
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls enableZoom={false} />
-        <Ball imgUrl={icon} />
+        <Ball imgUrl={icon}/>
       </Suspense>
 
       <Preload all />
