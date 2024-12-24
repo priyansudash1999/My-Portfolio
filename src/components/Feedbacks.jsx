@@ -32,7 +32,7 @@ const Feedbacks = () => {
       <div className={`${styles.padding} bg-tertiary rounded-2xl min-h-[300px]`}>
         <motion.div variants={textVariant()}>
           <p className={styles.sectionSubText}>What others say about me</p>
-          <h2 className={styles.sectionHeadText}>Testimonials</h2>
+          <h2 className={styles.sectionHeadText}>Testimonials<p className={styles.sectionSubText}>sorry, It's a dummy and also not True</p></h2>
         </motion.div>
       </div>
       {/* Centered and constrained width */}
