@@ -62,4 +62,4 @@ const Experience = () => {
   )
 }
 
-export default SectionWrapper(Experience, "works")
+export default SectionWrapper(Experience, '')

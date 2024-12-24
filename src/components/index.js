@@ -7,3 +7,10 @@ export { default as Works } from "./Works";
 export { default as Tech } from "./Tech";
 export { default as Feedbacks } from "./Feedbacks";
 
+import { EarthCanvas, BallCanvas, ComputersCanvas, StarsCanvas } from './canvas';
+export {
+    EarthCanvas,
+    BallCanvas,
+    ComputersCanvas,
+    StarsCanvas
+}

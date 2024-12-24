@@ -2,7 +2,6 @@ import {
     backend,
     frontend,
     web,
-    mobile,
     javascript,
     typescript,
     html,
@@ -127,44 +126,45 @@ import {
     {
       testimonial:
         "Working with Priyansu was an absolute pleasure. They delivered a stunning website on time and exceeded our expectations.",
-      name: "John Doe",
+      name: "Ravi Kumar",
       designation: "CEO",
-      company: "TechSpark",
+      company: "TechSpark India",
       image: "https://randomuser.me/api/portraits/men/10.jpg",
     },
     {
       testimonial:
         "Priyansu's attention to detail and commitment to quality made our project a resounding success.",
-      name: "Emily Carter",
+      name: "Anjali Sharma",
       designation: "Marketing Manager",
-      company: "Bright Future Inc.",
+      company: "Bright Future Pvt. Ltd.",
       image: "https://randomuser.me/api/portraits/women/12.jpg",
     },
     {
       testimonial:
         "Our company's online presence transformed completely thanks to Priyansu's incredible skills in web development.",
-      name: "Michael Lee",
+      name: "Vikram Singh",
       designation: "Managing Director",
-      company: "Global Solutions",
+      company: "Global Solutions India",
       image: "https://randomuser.me/api/portraits/men/15.jpg",
     },
     {
       testimonial:
         "Priyansu consistently demonstrated professionalism, creativity, and a deep understanding of our needs. Highly recommended!",
-      name: "Sophia Turner",
+      name: "Neha Gupta",
       designation: "Product Owner",
-      company: "NextWave",
+      company: "NextWave Tech",
       image: "https://randomuser.me/api/portraits/women/20.jpg",
     },
     {
       testimonial:
         "The website Priyansu built for us has significantly increased our customer engagement and sales. Truly amazing work!",
-      name: "David Johnson",
+      name: "Arjun Desai",
       designation: "Head of Sales",
-      company: "EcoVentures",
+      company: "EcoVentures India",
       image: "https://randomuser.me/api/portraits/men/8.jpg",
     },
-];
+  ];
+  
 
   
   const projects = [
